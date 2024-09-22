@@ -1,0 +1,1 @@
+/nix/store/mpm3i0sbqc9svfch6a17179fs64dz2kv-gcc-wrapper-13.3.0/bin/g++ -g "CMakeFiles/hello-world.dir/hello_world_test.cpp.o" "CMakeFiles/hello-world.dir/hello_world.cpp.o" "CMakeFiles/hello-world.dir/test/tests-main.cpp.o" -o hello-world
