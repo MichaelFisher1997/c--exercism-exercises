@@ -1,0 +1,1 @@
+/nix/store/kp2j7yn0wzwq5piy494r54dafrh83s6s-gcc-wrapper-13.3.0/bin/g++ "CMakeFiles/vehicle-purchase.dir/vehicle_purchase_test.cpp.o" "CMakeFiles/vehicle-purchase.dir/vehicle_purchase.cpp.o" "CMakeFiles/vehicle-purchase.dir/test/tests-main.cpp.o" -o vehicle-purchase
